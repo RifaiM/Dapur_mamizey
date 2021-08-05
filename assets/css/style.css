@@ -10,13 +10,14 @@ h1, h1 > span {
 h3 > span {
     color: #cca69a;
 }
+*/
 
 .ordernow {
     background-color: #ff9334;
-    color: #fff;
-    border: #fff;
+    border-color: #ff9400;
 }
 
+/*
 .blue {
     color: #30A4EE;
 }
