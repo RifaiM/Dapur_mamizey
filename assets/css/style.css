@@ -2,12 +2,17 @@ body {
     padding-top: 60px;
 }
 
+/*
+h1, h1 > span {
+    color: #fed200;
+}
+
 h3 > span {
-    color: #C59D5F;
+    color: #cca69a;
 }
 
 .ordernow {
-    background-color: #FA7269;
+    background-color: #ff9334;
     color: #fff;
     border: #fff;
 }
@@ -15,3 +20,4 @@ h3 > span {
 .blue {
     color: #30A4EE;
 }
+*/
