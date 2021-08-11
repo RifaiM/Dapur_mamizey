@@ -8,4 +8,4 @@ Pas banget subuh
 
 ### Local development
 
-Open index.html
+https://rifaim.github.io/Dapur_mamizey
