@@ -1,6 +1,6 @@
 # Belajar git lagi
 
-ini kayanya baru yang bener
+using bootstrap 5, ini kayanya baru yang bener
 
 ## Alhamdulilah
 
